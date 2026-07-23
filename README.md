@@ -91,7 +91,7 @@
 
   ### 1. 下载
 
-  前往 [Releases](https://github.com/cc9927/Wecome-Work-Hook/releases) 页面下载最新版客户端，解压备用。
+  前往 [Releases](https://github.com/gd122599/WeCome_work_hook/releases) 页面下载最新版客户端，解压备用。
 
   ### 2. 环境准备
 
