@@ -91,14 +91,13 @@
 
   ### 1. 下载
 
-  [v1.0.0](https://github.com/cc9927/Wecome-Work-Hook/releases/tag/v1.0.0) 适配企微 v4.1.36.6012
   
-  [v2.0.0](https://github.com/cc9927/Wecome-Work-Hook/releases/tag/v2.0.0) 适配企微 v5.0.3.6005
+  [v2.0.0](https://github.com/gd122599/WeCome_work_hook/releases/tag/v2.0.0) 适配企微 v5.0.3.6005
 
   ### 2. 环境准备
 
   - 操作系统：Windows 10 / 11（64 位）
-  - 企业微信版本：`v4.1.36.6012` `v5.0.3.6005`（**请勿升级**）
+  - 企业微信版本：`v5.0.3.6005`（**请勿升级**）
   - 先登录企业微信，保持登录状态
 
   ### 3. 启动框架
